@@ -29,3 +29,9 @@ Creating_Sin
 ---
 
 Creating the math Sin symbol/equation
+
+
+Random_Generated_Graph
+---
+
+Making a randomly generated graph.
