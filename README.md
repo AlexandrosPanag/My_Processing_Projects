@@ -5,3 +5,15 @@ Processing is a flexible software sketchbook and a language for learning how to 
 
 
 Source & Download : https://processing.org
+
+
+Hello_World
+-----
+
+Printing the Hello World into the processing ide with basic commands
+
+
+Hello_World_But_Better
+-----
+
+Making the Hello_World program look better with adjusting the anti-analyzing, the window size and the text font
