@@ -23,3 +23,9 @@ Creating-Axis_X_Y
 -----
 
 Creating the X-Y axis on a program
+
+
+Creating_Sin
+---
+
+Creating the math Sin symbol/equation
